@@ -25,7 +25,7 @@
     "types-webpack-bundler": "^1.0.2",
     "xterm": "^4.15.0",
     "xterm-addon-fit": "^0.5.0",
-    "xterm-addon-web-links": "^0.4.0"
+    "xterm-addon-web-links": "^0.5.0"
   },
   "devDependencies": {
     "@types/argparse": "^2.0.10",
